@@ -23,13 +23,14 @@ Go through all the links given above for this Project</br>
 
 ## LED Toggling Project:
 
-1. [AIM : Linux Commands](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_01.md)
-2. [Material Required : Arithematic and Conditional Opertaors](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
-3. [Theory: Conditional and Unconditional Statements](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_03.c)
-4. [Procedure : Looping Statements](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_04.c)
-5. [Circuit Diagram : Function and Recursion](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_05.c)
-6. [Programming Code : 1D Array](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_06.c)
-7. [Output/Result : 2D Array](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_07.c)
+1. [AIM : LED Toggling using Micro Controller 8051 (https://github.com/harshchouhan3122/LED-Toggling-Project-8051-)
+2. [Material Required](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
+3. [Theory](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_03.c)
+4. [Procedure](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_04.c)
+5. [Circuit Diagram](https://github.com/harshchouhan3122/LED-Toggling-Project-8051-/blob/master/Circuit%20Diagram.png)
+6. [Programming Code](https://github.com/harshchouhan3122/LED-Toggling-Project-8051-/blob/master/LED%20Toggling.c)
+7. [Simulation(on Keil Software)](https://github.com/harshchouhan3122/LED-Toggling-Project-8051-/blob/master/2022-05-18%2022-54-56.mkv)
+8. [Result(Practically Obtained)](https://github.com/harshchouhan3122/LED-Toggling-Project-8051-/blob/master/LED%20Toggling%20Video.mp4)
 
 
 <hr> </hr>
